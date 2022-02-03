@@ -1,6 +1,5 @@
 body {
 	font-family: "Proxima Nova Soft", helvetica, arial, sans-serif;
-	padding-bottom: 400px;
 }
 
 .menu {
@@ -180,4 +179,11 @@ body {
 	text-align: right;
 	padding-right: 40px;
 	padding-left: 0px;
+}
+
+.footer {
+	background-color: #02A6EB;
+	color: #FFF;
+	text-align: center;
+	padding: 30px 10px;
 }
